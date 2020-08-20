@@ -20,7 +20,7 @@ I graduated with a bachelor's degree in Computer Engineering at the University o
 I have a strong knowledge and understanding in native iOS and Android mobile application development and a good understanding of the fundamentals and concepts of object-oriented programming. I'm also capable of writing hybrid applications using the React Native framework that would run on an iOS, Android and web platform. Front-end web development is also part of my skill set and I am also capable of developing web apps or pages using HTML5, CSS3 and JavaScript.  
 
 Other skills that I possess include knowledge in modelling and designing relational databases using MySQL as well use of persistent storage data libraries and frameworks such the Room Database for the Android platform, Core Data for iOS platform and the Firebase cloud storage development platform.
-<br>
+<br><br>
 <img align="left" src="./images/project_icon.png" width=50 /> 
 
 ## Projects
