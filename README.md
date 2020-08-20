@@ -21,7 +21,7 @@ I have a strong knowledge and understanding in native iOS and Android mobile app
 
 Other skills that I possess include knowledge in modelling and designing relational databases using MySQL as well use of persistent storage data libraries and frameworks such the Room Database for the Android platform, Core Data for iOS platform and the Firebase cloud storage development platform.
 <br><br>
-<img align="left" src="./images/project_icon.png" width=50 /> 
+<img align="left" src="./images/project_icon.png" width=65 /> 
 
 ## Projects
 <br>
