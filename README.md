@@ -1,4 +1,8 @@
-# Going Mobile
+
+<img align="left" src="./images/mobile_icon.png" width=100 />
+
+# Going Mobile        
+<br>         
 Hi, my name is **Louise Chan**, former Embedded Software Developer and now pursuing an exciting career in Mobile Applications Development.
 
 ## Educational Background
