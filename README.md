@@ -17,7 +17,7 @@ I graduated with a bachelor's degree in Computer Engineering which is a 5-year a
 
 I have strong knowledge and understanding of native iOS and Android mobile application development supported with a solid understanding of the fundamentals and concepts of object-oriented programming. I'm also capable of writing hybrid applications using the React Native framework which is capable of running in an iOS, Android and web platform. During my mobile application development at George Brown College, I also learned front-end web development which equipped me with the skills to develop web apps and pages using HTML5, CSS3 and JavaScript.  
 
-Other skills that I possess include knowledge in modelling and designing of relational databases using MySQL as well use of persistent storage data libraries and frameworks such the Room Database for the Android platform, Core Data for iOS platform and the Firebase cloud storage development platform. I am also knowledgeable in the use of RESTful APIs and were able to apply them in my mobile application designs as well as the different libraries and frameworks used in Android and iOS development such Core Motion, Core Location, MapKit, Google Maps and Location services, Sensor Manager, AlamoFire, SwiftyJSON and so much more.
+Other skills that I possess include knowledge in modelling and designing of relational databases using MySQL as well use of persistent storage data libraries and frameworks such the Room Database for the Android platform, Core Data for iOS platform and the Firebase cloud storage development platform. I am also knowledgeable in the use of RESTful APIs and were able to apply them in my mobile application designs as well as the different libraries and frameworks used in Android and iOS development such as Core Motion, Core Location, MapKit, Google Maps and Location services, Sensor Manager, AlamoFire, SwiftyJSON and so much more.
 
 I won't bore you any further by listing more of my skills on this page but if your are interested in knowing more about my professional background, please feel free to have a look at my resume by clicking on the following link: <a href="./docs/LChan Mobile Developer Resume.pdf" target="_blank">[My Mobile Software Developer Resume]</a>
 <br><br>
@@ -25,7 +25,7 @@ I won't bore you any further by listing more of my skills on this page but if yo
 
 ## Projects
 <br>
-Here are some of the projects that I have worked on as a Mobile Developer:
+Here are some of the projects that I have worked on so far as a Mobile Developer. I'm planning to add more mobile app projects as I go along so please continue to visit my page to check for any new developments. 
 
 
 
