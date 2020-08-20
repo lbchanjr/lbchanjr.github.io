@@ -20,12 +20,12 @@ I have strong knowledge and understanding of native iOS and Android mobile appli
 Other skills that I possess include knowledge in modelling and designing of relational databases using MySQL as well use of persistent storage data libraries and frameworks such the Room Database for the Android platform, Core Data for iOS platform and the Firebase cloud storage development platform. I am also knowledgeable in the use of RESTful APIs and were able to apply them in my mobile application designs as well as the different libraries and frameworks used in Android and iOS development such as Core Motion, Core Location, MapKit, Google Maps and Location services, Sensor Manager, AlamoFire, SwiftyJSON and so much more.
 
 I won't bore you any further by listing more of my skills on this page but if your are interested in knowing more about my professional background, please feel free to take a look at my resume by clicking on the following link: <a href="./docs/LChan Mobile Developer Resume.pdf" target="_blank">[My Mobile Software Developer Resume]</a>
-<br><br>
+<br /><br />
 <img align="left" src="./images/project_icon.png" alt="Project schedule icon" width=65 /> 
 
 ## Projects
-<br>
-Here are some of the projects that I have worked on so far as a Mobile Developer/Front-end Web Developer. I'm planning to add more mobile and web applications as I go along so please continue to visit my GitHub page (this page) or my <a href src="https://bit.ly/2QcMKZk" target="_blank">GitHub repository list</a> to check for any new developments.   
+<br />
+Here are some of the projects that I have worked on so far as a Mobile Developer/Front-end Web Developer. I'm planning to add more mobile and web applications as I go along so please continue to visit my GitHub page (this page) or my [GitHub repository list](https://bit.ly/2QcMKZk) to check for any new developments.   
 
 Please note that clicking on the link for each of the project will redirect you to the GitHub repository of that project where you will be able to see information about the project in greater detail.  
 
