@@ -2,7 +2,7 @@
 
 # Going Mobile
 ##### Louise Chan's GitHub Page  
-<br>
+<br><br>
 Hi, my name is Louise Chan, former Embedded Software Developer who's now pursuing an exciting new career in Mobile Applications Development. Why choose Mobile Development as a second career you say? It all started as a goal of mine to supplement my embedded software development skills with a little bit of knowledge in Android and iOS development so that I can create embedded device projects that will be able to interface with a mobile device. That "little bit" of knowledge ended up with a **lot of love**  :heart_eyes: :heart: :heart_eyes:  for mobile applications development so I decided to further explore this world of software development by studying Mobile Applications Development. So here I am today, a full-fledged mobile applications developer with a side front-end web development and an alter ego of an embedded software developer excited to face the challenges that awaits me in the world of mobile application development.  
 
 <br><br>
@@ -11,7 +11,6 @@ Hi, my name is Louise Chan, former Embedded Software Developer who's now pursuin
 ## Educational Background
 <br><br>
 I graduated with a bachelor's degree in Computer Engineering which is a 5-year academic program at the University of San Carlos in the Philippines and continued my studies here in Canada by taking up a post-graduate certificate program in Mobile Application Development and Strategy at George Brown College in Toronto.  
-<br>
 <img align="left" src="./images/toolbox.png" alt="Toolbox icon" width=75 /> 
 
 ## Skills
