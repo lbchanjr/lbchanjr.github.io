@@ -21,8 +21,7 @@ I have strong knowledge and understanding of native iOS and Android mobile appli
 
 Other skills that I possess include knowledge in modelling and designing relational databases using MySQL as well use of persistent storage data libraries and frameworks such the Room Database for the Android platform, Core Data for iOS platform and the Firebase cloud storage development platform. I am also knowledgeable in the use of RESTful APIs and were able to apply them in my mobile application designs.
 
-I won't bore you any further by listing more of skills on this page but if your are interested in looking more into my skills, please feel free to have a look at my resume by clicking on the following link:   
-     <a href="./docs/LChan Mobile Developer Resume.pdf" target="_blank">Louise Chan's Mobile Software Developer Resume</a>
+I won't bore you any further by listing more of skills on this page but if your are interested in looking more into my skills, please feel free to have a look at my resume by clicking on the following link:   <a href="./docs/LChan Mobile Developer Resume.pdf" target="_blank">Louise Chan's Mobile Software Developer Resume</a>
 
 <br><br>
 
