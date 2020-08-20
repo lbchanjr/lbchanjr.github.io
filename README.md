@@ -12,7 +12,7 @@ Hi, my name is <b>Louise Chan</b>, former Embedded Software Developer whose now 
 <br>
 I graduated with a bachelor's degree in Computer Engineering at the University of San Carlos in the Philippines and continued my studies here in Canada by taking up a post-graduate program in Mobile Application Development and Strategy at George Brown College in Toronto.
 
-<img align="left" src="./images/toolbox.png" width=100 />. 
+<img align="left" src="./images/toolbox.png" width=100 /> 
 
 ## Skills
 <br>
@@ -20,7 +20,7 @@ I have a strong knowledge and understanding in **native iOS and Android mobile a
 
 Other skills that I possess include knowledge in **modelling and designing relational databases using MySQL** as well use of persistent storage data libraries and frameworks such the **Room Database for the Android platform, Core Data for iOS platform and the Firebase cloud storage development platform**.
 
-<img align="left" src="./images/project_icon.png" width=100 />. 
+<img align="left" src="./images/project_icon.png" width=50 /> 
 
 ### Projects
 <br>
