@@ -3,7 +3,7 @@
 # Going Mobile
 ##### Louise Chan's GitHub Page  
 <br>
-Hi, my name is Louise Chan, former Embedded Software Developer who's now pursuing an exciting new career in Mobile Applications Development. Why choose Mobile Development as a second career you say? It all started as a goal of mine to supplement my embedded software development skills with a little bit of knowledge in Android and iOS development so that I can create embedded device projects that will be able to interface with a mobile device. That "little bit" of knowledge ended up with **a lot of love** for mobile applications development so I decided to further explore this world of software development by studying Mobile Applications Development. So here I am today, a full-fledged mobile applications developer with a side front-end web development and an alter ego of an embedded software developer excited to face the challenges that awaits me in the world of mobile application development.  
+Hi, my name is Louise Chan, former Embedded Software Developer who's now pursuing an exciting new career in Mobile Applications Development. Why choose Mobile Development as a second career you say? It all started as a goal of mine to supplement my embedded software development skills with a little bit of knowledge in Android and iOS development so that I can create embedded device projects that will be able to interface with a mobile device. That "little bit" of knowledge ended up with **a lot of love** for mobile applications development so I decided to further explore this world of software development by studying Mobile Applications Development. So here I am today, a full-fledged mobile applications developer with a side of front-end web development and an alter ego of an embedded software developer excited to face the challenges that awaits me in the world of mobile application development.  
 <br><br>
 <img align="left" src="./images/graduation_cap.png" alt="Graduation cap icon" width=75 />
 
@@ -25,7 +25,7 @@ I won't bore you any further by listing more of my skills on this page but if yo
 
 ## Projects
 <br>
-Here are some of the projects that I have worked on so far as a Mobile Developer/Front-end Web Developer. I'm planning to add more mobile and web applications as I go along so please continue to visit my GitHub page (this page) or my <a href src="https://github.com/lbchanjr?tab=repositories" target="_blank">GitHub Repository List</a> to check for any new developments.   
+Here are some of the projects that I have worked on so far as a Mobile Developer/Front-end Web Developer. I'm planning to add more mobile and web applications as I go along so please continue to visit my GitHub page (this page) or my [GitHub Repository List](https://github.com/lbchanjr?tab=repositories) to check for any new developments.   
 
 Please note that clicking on the link for each of the project will redirect you to the GitHub repository of that project where you will be able to see information about the project in greater detail.  
 
