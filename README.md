@@ -9,13 +9,12 @@ Hi, my name is Louise Chan, former Embedded Software Developer who's now pursuin
 <img align="left" src="./images/graduation_cap.png" alt="Graduation cap icon" width=75 />
 
 ## Educational Background
-<br><br>
+<br>
 I graduated with a bachelor's degree in Computer Engineering which is a 5-year academic program at the University of San Carlos in the Philippines and continued my studies here in Canada by taking up a post-graduate certificate program in Mobile Application Development and Strategy at George Brown College in Toronto.  
 <img align="left" src="./images/toolbox.png" alt="Toolbox icon" width=75 /> 
 
 ## Skills
 <br>
-
 I have strong knowledge and understanding of native iOS and Android mobile application development supported with a solid understanding of the fundamentals and concepts of object-oriented programming. I'm also capable of writing hybrid applications using the React Native framework which is capable of running in an iOS, Android and web platform. During my mobile application development at George Brown College, I also learned front-end web development which equipped me with the skills to develop web apps and pages using HTML5, CSS3 and JavaScript.  
 
 Other skills that I possess include knowledge in modelling and designing of relational databases using MySQL as well use of persistent storage data libraries and frameworks such the Room Database for the Android platform, Core Data for iOS platform and the Firebase cloud storage development platform. I am also knowledgeable in the use of RESTful APIs and were able to apply them in my mobile application designs as well as the different libraries and frameworks used in Android and iOS development such as Core Motion, Core Location, MapKit, Google Maps and Location services, Sensor Manager, AlamoFire, SwiftyJSON and so much more.
