@@ -25,7 +25,7 @@ I won't bore you any further by listing more of my skills on this page but if yo
 
 ## Projects
 <br>
-Here are some of the projects that I have worked on so far as a Mobile Developer. I'm planning to add more mobile app projects as I go along so please continue to visit my page to check for any new developments. 
+Here are some of the projects that I have worked on so far as a Mobile Developer. I'm planning to add more mobile applications as I go along so please continue to visit GitHub page or GitHub repository to check for any new developments. 
 
 
 
