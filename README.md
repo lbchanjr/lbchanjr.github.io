@@ -1,7 +1,3 @@
----
-title-heading: Louise Chan's GitHub Page
----
-
 <img align="left" src="./images/mobile_icon.png" alt="Mobile phone cartoon" width=100 />
 
 # Going Mobile - Louise Chan's GitHub Page       
