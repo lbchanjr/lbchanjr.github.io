@@ -1,18 +1,18 @@
 
-<img align="left" src="./images/mobile_icon.png" width=100 />
+<img align="left" src="./images/mobile_icon.png" width=75 />
 
 # Going Mobile        
 <br>         
 
 Hi, my name is <b>Louise Chan</b>, former Embedded Software Developer whose now pursuing an exciting career in Mobile Applications Development.
 
-<img align="left" src="./images/graduation_cap.png" width=100 />
+<img align="left" src="./images/graduation_cap.png" width=50 />
 
 ## Educational Background
 <br>
 I graduated with a bachelor's degree in Computer Engineering at the University of San Carlos in the Philippines and continued my studies here in Canada by taking up a post-graduate program in Mobile Application Development and Strategy at George Brown College in Toronto.
 
-<img align="left" src="./images/toolbox.png" width=100 /> 
+<img align="left" src="./images/toolbox.png" width=50 /> 
 
 ## Skills
 <br>
