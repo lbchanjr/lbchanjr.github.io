@@ -25,7 +25,7 @@ I won't bore you any further by listing more of my skills on this page but if yo
 
 ## Projects
 <br>
-Here are some of the projects that I have worked on so far as a Mobile Developer/Front-end Web Developer. I'm planning to add more mobile and web applications as I go along so please continue to visit my GitHub page (this page) or my <a href src="https://github.com/lbchanjr?tab=repositories" target="_blank">GitHub repository</a> to check for any new developments.   
+Here are some of the projects that I have worked on so far as a Mobile Developer/Front-end Web Developer. I'm planning to add more mobile and web applications as I go along so please continue to visit my GitHub page (this page) or my <a href src="https://github.com/lbchanjr?tab=repositories" target="_blank">GitHub Repository List</a> to check for any new developments.   
 
 Please note that clicking on the link for each of the project will redirect you to the GitHub repository of that project where you will be able to see information about the project in greater detail.  
 
