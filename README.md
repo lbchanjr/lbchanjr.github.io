@@ -25,7 +25,7 @@ I won't bore you any further by listing more of my skills on this page but if yo
 
 ## Projects
 <br>
-Here are some of the projects that I have worked on so far as a Mobile Developer. I'm planning to add more mobile applications as I go along so please continue to visit GitHub page or GitHub repository to check for any new developments.  
+Here are some of the projects that I have worked on so far as a Mobile Developer/Front-end Web Developer. I'm planning to add more mobile and web applications as I go along so please continue to visit GitHub page or GitHub repository to check for any new developments.  
 
 Please note that clicking on a link in each of the project will redirect you to the GitHub repository of that project where you will be able to see more information about the project in greater detail.  
 
