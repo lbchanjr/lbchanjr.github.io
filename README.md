@@ -1,5 +1,10 @@
-# Going Mobile
-Hi, my name is **Louise Chan**, former Embedded Software Developer and now pursuing an exciting career in Mobile Applications Development.
+
+<img align="left" src="./images/mobile_icon.png" width=100 />
+
+# Going Mobile        
+<br>         
+
+Hi, my name is <b>Louise Chan</b>, former Embedded Software Developer and now pursuing an exciting career in Mobile Applications Development.
 
 ## Educational Background
 I graduated with a bachelor's degree in Computer Engineering at the University of San Carlos in Cebu City, Philippines and took up a post-graduate program in Mobile Application Development and Strategy at George Brown College at Toronto, Ontario, Canada.
