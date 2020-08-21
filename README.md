@@ -29,9 +29,9 @@ Here are some of the projects that I have worked on so far as a Mobile Developer
 
 Please note that clicking on the link for each of the project will redirect you to the GitHub repository of that project where you will be able to see information about the project in greater detail.  
 
-Name | Repository | Platform | Programming Languages
+Name | Description and Repository Link | Platform | Programming Languages/Framework Used
 ---------------- | ----------------- | ------------------- | --------------
-**Alien Addition Math Game** | https://github.com/lbchanjr/Alien-Addition/blob/master/README.md | Web | HTML5/CSS3/JavaScript
+**Alien Addition Math Game** | An educational shooter game for kids.<br />https://github.com/lbchanjr/Alien-Addition/blob/master/README.md | Web | HTML5/CSS3/JavaScript
 
 
 
