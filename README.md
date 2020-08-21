@@ -31,9 +31,7 @@ Please note that clicking on the link for each of the project will redirect you 
 
 Name | Description and Repository Link | Platform | Programming Languages/Framework Used
 ---------------- | ----------------- | ------------------- | --------------
-**Alien Addition Math Game** | An educational shooter game for kids.<br />https://github.com/lbchanjr/Alien-Addition/blob/master/README.md | Web | HTML5/CSS3/JavaScript
-
-
+**Alien Addition Math Game** | An educational shooter game for kids.<a href src="https://github.com/lbchanjr/Alien-Addition/blob/master/README.md">&nbsp;(View repository)</a> | Web | HTML5/CSS3/JavaScript
 
 
 
