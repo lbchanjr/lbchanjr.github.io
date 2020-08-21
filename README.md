@@ -29,7 +29,7 @@ Here are some of the projects that I have worked on so far as a Mobile Developer
 
 Please note that clicking on the link for each of the project will redirect you to the GitHub repository of that project where you will be able to see information about the project in greater detail.  
 
-Name | Description and repository link | Platform | Programming Language/Framework Used
+Name | Description and repository link | Platform | Programming Language/Relevant Framework
 ---------------- | ----------------- | ------------------- | --------------
 **Alien Addition Math Game** | An educational shooter game for kids. [(View repository)](https://github.com/lbchanjr/Alien-Addition/blob/master/README.md) | Web | HTML5/CSS3/JavaScript
 **Live Fit Food Ordering App for Android** | A mock ordering Android app for the livefitfood.ca website. [(View repository)](https://github.com/lbchanjr/LiveFitAndroid/blob/master/README.md) | Android | Java / Firebase / Google Location
