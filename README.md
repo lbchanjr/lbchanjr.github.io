@@ -32,7 +32,8 @@ Please note that clicking on the link for each of the project will redirect you 
 Name | Description and repository link | Platform | Programming Language/Framework Used
 ---------------- | ----------------- | ------------------- | --------------
 **Alien Addition Math Game** | An educational shooter game for kids. [(View repository)](https://github.com/lbchanjr/Alien-Addition/blob/master/README.md) | Web | HTML5/CSS3/JavaScript
-**Live Fit Food Ordering App for Android** | A mock ordering app for the livefitfood.ca website. [(View repository)](https://github.com/lbchanjr/LiveFitAndroid/blob/master/README.md) | Android | Java / Firebase / Google Location
+**Live Fit Food Ordering App for Android** | A mock ordering Android app for the livefitfood.ca website. [(View repository)](https://github.com/lbchanjr/LiveFitAndroid/blob/master/README.md) | Android | Java / Firebase / Google Location
+**Live Fit Food Ordering App for iOS** | A mock ordering iOS app for the livefitfood.ca website. [(View repository)](https://github.com/lbchanjr/LiveFitFood-iOS-/blob/master/README.md) | iOS | Swift / Core Data
 
 
 
