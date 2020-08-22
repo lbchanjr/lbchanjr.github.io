@@ -23,7 +23,7 @@ I won't bore you any further by listing more of my skills on this page but if yo
 <br /><br />
 <img align="left" src="./images/project_icon.png" alt="Project schedule icon" width=65 /> 
 
-## Projects
+## Mobile Applications Developed
 <br />
 Here are some of the projects that I have worked on so far as a Mobile Developer/Front-end Web Developer. I'm planning to add more mobile and web applications as I go along so please continue to visit my GitHub page (this page) or my [GitHub repository list](https://github.com/lbchanjr?tab=repositories) to check for any new developments.   
 
