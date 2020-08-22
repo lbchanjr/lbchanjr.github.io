@@ -35,8 +35,8 @@ Name | Description and repository link | Platform | Programming Language/Relevan
 **Live Fit Food Ordering App for Android** | A mock ordering Android app for the livefitfood.ca website. [(View repository)](https://github.com/lbchanjr/LiveFitAndroid/blob/master/README.md) | Android | Java / Firebase / Google Location
 **Live Fit Food Ordering App for iOS** | A mock ordering iOS app for the livefitfood.ca website. [(View repository)](https://github.com/lbchanjr/LiveFitFood-iOS-/blob/master/README.md) | iOS | Swift / Core Data
 **Directions and Geofencing** | An app demonstrating map and geofencing functions. [(View repository)](https://github.com/lbchanjr/GeofencingLabTest2/blob/master/README.md) | iOS | Swift / MapKit / CoreLocation
-**Currency Converter** | A currency converter app created using React Native. [(View repository)](https://github.com/lbchanjr/CurrencyConverter-ReactNative/blob/master/README.md) | iOS/Android/web | JavaScript (JSX)/React Native/RESTful API
-**Alien Addition Math Game** | An educational shooter game for kids. [(View repository)](https://github.com/lbchanjr/Alien-Addition/blob/master/README.md) | Web | HTML5/CSS3/JavaScript
+**Currency Converter** | A currency converter app created using React Native. [(View repository)](https://github.com/lbchanjr/CurrencyConverter-ReactNative/blob/master/README.md) | iOS/Android/web | JavaScript (JSX) / React Native
+**Alien Addition Math Game** | An educational shooter game for kids. [(View repository)](https://github.com/lbchanjr/Alien-Addition/blob/master/README.md) | Web | HTML5 / CSS3 / JavaScript
 
 
 
