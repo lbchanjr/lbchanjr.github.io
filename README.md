@@ -38,6 +38,8 @@ Name | Description and repository link | Platform | Programming Language/Relevan
 **Currency Converter** | A currency converter app created using React Native. [(View repository)](https://github.com/lbchanjr/CurrencyConverter-ReactNative/blob/master/README.md) | iOS/Android/web | JavaScript (JSX) / React Native
 **Live Fit Food Ordering App (React Native)** | A mock ordering app for livefitfood.ca created using the React Native framework. [(View repository)](https://github.com/lbchanjr/LiveFitFood-ReactNative/blob/master/README.md) | iOS/Android/web | JavaScript (JSX) / React Native / Firebase
 **Alien Addition Math Game** | An educational shooter game for kids. [(View repository)](https://github.com/lbchanjr/Alien-Addition/blob/master/README.md) | Web | HTML5 / CSS3 / JavaScript
+**Now Playing Movies** | Displays a list of movies that are now showing in theatres or now streaming online. [(View repository)](https://github.com/lbchanjr/nowplaying-web/blob/master/README.md) | Web | HTML5 / CSS3 / JavaScript / RESTful APIs
+
 
 
 
