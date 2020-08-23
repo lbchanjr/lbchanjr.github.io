@@ -23,18 +23,23 @@ I won't bore you any further by listing more of my skills on this page but if yo
 <br /><br />
 <img align="left" src="./images/project_icon.png" alt="Project schedule icon" width=65 /> 
 
-## Projects
+## Mobile/Web Applications Developed
 <br />
 Here are some of the projects that I have worked on so far as a Mobile Developer/Front-end Web Developer. I'm planning to add more mobile and web applications as I go along so please continue to visit my GitHub page (this page) or my [GitHub repository list](https://github.com/lbchanjr?tab=repositories) to check for any new developments.   
 
-Please note that clicking on the link for each of the project will redirect you to the GitHub repository of that project where you will be able to see information about the project in greater detail.  
+Please note that clicking on the link for each of the project will redirect you to the project repository's **README.md** page where you will be able to see information about the project in greater detail.  
 
 Name | Description and repository link | Platform | Programming Language/Relevant Framework
 ---------------- | ----------------- | ------------------- | --------------
 **Tokyo 2020 Tourist Info App** | Tourist app for Tokyo and the 2020 Summer Olympic Games. [(View repository)](https://github.com/lbchanjr/Tokyo-2020-Android/blob/master/README.md) | Android | Java / Room persistence library
-**Alien Addition Math Game** | An educational shooter game for kids. [(View repository)](https://github.com/lbchanjr/Alien-Addition/blob/master/README.md) | Web | HTML5/CSS3/JavaScript
-**Live Fit Food Ordering App for Android** | A mock ordering Android app for the livefitfood.ca website. [(View repository)](https://github.com/lbchanjr/LiveFitAndroid/blob/master/README.md) | Android | Java / Firebase / Google Location
+**Live Fit Food Ordering App for Android** | A mock ordering Android app for the livefitfood.ca website. [(View repository)](https://github.com/lbchanjr/LiveFitAndroid/blob/master/README.md) | Android | Java / Firebase / Google Location Services
+**Directions and Geofencing** | An app demonstrating map and geofencing functions. [(View repository)](https://github.com/lbchanjr/GeofencingLabTest2/blob/master/README.md) | iOS | Swift / MapKit / CoreLocation
 **Live Fit Food Ordering App for iOS** | A mock ordering iOS app for the livefitfood.ca website. [(View repository)](https://github.com/lbchanjr/LiveFitFood-iOS-/blob/master/README.md) | iOS | Swift / Core Data
+**Currency Converter** | A currency converter app created using React Native. [(View repository)](https://github.com/lbchanjr/CurrencyConverter-ReactNative/blob/master/README.md) | iOS/Android/web | JavaScript (JSX) / React Native
+**Live Fit Food Ordering App (React Native)** | A mock ordering app for livefitfood.ca created using the React Native framework. [(View repository)](https://github.com/lbchanjr/LiveFitFood-ReactNative/blob/master/README.md) | iOS/Android/web | JavaScript (JSX) / React Native / Firebase
+**Alien Addition Math Game** | An educational shooter game for kids. [(View repository)](https://github.com/lbchanjr/Alien-Addition/blob/master/README.md) | Web | HTML5 / CSS3 / JavaScript
+**Now Playing Movies** | Displays a list of movies that are now showing in theatres or now streaming online. [(View repository)](https://github.com/lbchanjr/nowplaying-web/blob/master/README.md) | Web | HTML5 / CSS3 / JavaScript / RESTful APIs
+
 
 
 
