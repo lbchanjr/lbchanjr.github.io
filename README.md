@@ -19,7 +19,7 @@ I have strong knowledge and understanding of **native iOS and Android mobile app
 
 Other skills that I possess include knowledge in **modelling and designing of relational databases using MySQL** as well use of persistent storage data libraries and frameworks such as the **Room Database** for the Android platform, **Core Data** for iOS platform and the **Firebase cloud storage development platform**. I am also knowledgeable in the consumption of **REST APIs** and will be able to apply them in my mobile application designs as well as the different libraries and frameworks used in Android and iOS development such as **Core Motion, Core Location, MapKit, Google Maps and Location services, Sensor Manager, AlamoFire, SwiftyJSON** and so much more.
 
-I won't bore you any further by listing more of my skills on this page but if your are interested in knowing more about my professional background, please feel free to take a look at my LinkedIn profile: <a href="https://www.linkedin.com/in/louise-chan-0525/" target="_blank">[**My LinkedIn Profile**]</a> and send me a message if you would like to request for a copy of my Resume.
+I won't bore you any further by listing more of my skills on this page but if your are interested in knowing more about my professional background, please feel free to take a look at <a href="https://www.linkedin.com/in/louise-chan-0525/" target="_blank">[**my LinkedIn profile**]</a> and send me a message if you would like to request for a copy of my Resume.
 <br /><br />
 <img align="left" src="./images/project_icon.png" alt="Project schedule icon" width=65 /> 
 
