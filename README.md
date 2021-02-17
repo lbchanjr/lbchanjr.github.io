@@ -29,8 +29,10 @@ Here are some of the projects that I have worked on so far as a Mobile Developer
 
 Please note that clicking on the link for each of the project will redirect you to the project repository's **README.md** page where you will be able to see information about the project in greater detail.  
 
-Name | Description and repository link | Platform | Programming Language/Relevant Framework
+Name | Description and AppStore/Repository link | Platform | Programming Language/Relevant Framework
 ---------------- | ----------------- | ------------------- | --------------
+**Business Sleuth** | Search and connect with businesses. [(Available in AppStore)](https://apps.apple.com/us/app/business-sleuth/id1553598712) | iOS | Swift / Yelp Fusion API
+**Quicktab** | Contactless in-restaurant dining app. [(Available in AppStore)](https://apps.apple.com/ca/app/quicktab/id1531456328) | iOS | Swift / Firebase / Google Places
 **Tokyo 2020 Tourist Info App** | Tourist app for Tokyo and the 2020 Summer Olympic Games. [(View repository)](https://github.com/lbchanjr/Tokyo-2020-Android/blob/master/README.md) | Android | Java / Room persistence library
 **Live Fit Food Ordering App for Android** | A mock ordering Android app for the livefitfood.ca website. [(View repository)](https://github.com/lbchanjr/LiveFitAndroid/blob/master/README.md) | Android | Java / Firebase / Google Location Services
 **Directions and Geofencing** | An app demonstrating map and geofencing functions. [(View repository)](https://github.com/lbchanjr/GeofencingLabTest2/blob/master/README.md) | iOS | Swift / MapKit / CoreLocation
