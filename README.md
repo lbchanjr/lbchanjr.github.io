@@ -9,7 +9,7 @@ Hi, my name is **Louise Chan**, a former Embedded Software Developer who's now p
 
 ## Educational Background
 <br>
-I graduated with a **Bachelor of Science degree in Computer Engineering** which is a 5-year academic program at the University of San Carlos in the Philippines and continued my studies here in Canada by taking up a post-graduate certificate program in **Mobile Application Development and Strategy at George Brown College in Toronto**. I completed the Mobile Application Development and Strategy program last December 2020 earning a **overall GPA of 4.0 and graduating with honours**.   
+I graduated with a **Bachelor of Science degree in Computer Engineering** which is a 5-year academic program at the University of San Carlos in the Philippines and continued my studies here in Canada by taking up a post-graduate certificate program in **Mobile Application Development and Strategy at George Brown College in Toronto**. I completed the Mobile Application Development and Strategy program last December 2020 earning a **overall GPA of 4.0 and graduating from the same program with honours**.   
 
 <img align="left" src="./images/toolbox.png" alt="Toolbox icon" width=75 /> 
 
