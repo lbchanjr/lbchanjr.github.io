@@ -32,7 +32,7 @@ Please note that clicking on the link for each of the project will redirect you 
 Name | Description and AppStore/Repository link | Platform | Programming Language/Relevant Framework
 ---------------- | ----------------- | ------------------- | --------------
 **Business Sleuth** | Search and connect with businesses. [(Available in AppStore)](https://apps.apple.com/us/app/business-sleuth/id1553598712) | iOS | Swift / Yelp Fusion API
-**Quicktab** | Contactless in-restaurant dining app. [(Available in AppStore)](https://apps.apple.com/ca/app/quicktab/id1531456328) | iOS | Swift / Firebase / Google Places
+**Quicktab** | Contactless in-restaurant dining app. [(Available in AppStore)](https://apps.apple.com/ca/app/quicktab/id1531456328) | iOS | Swift / Firebase / AutoLayout / Google Places
 **Live Fit Food Ordering App for iOS (SwiftUI/Combine framework version)** | A mock ordering iOS app for the livefitfood.ca website implemented using the SwiftUI and Combine frameworks. [(View repository)](https://github.com/lbchanjr/LiveFitFood-SwiftUI/blob/main/README.md) | iOS | SwiftUI / Combine / MVVM / Core Data
 **Live Fit Food Ordering App for iOS (UIKit framework version)** | A mock ordering iOS app for the livefitfood.ca website implemented using the UIKit framework. [(View repository)](https://github.com/lbchanjr/LiveFitFood-UIKit/blob/master/README.md) | iOS | Swift / UIKit / Core Data
 **Tokyo 2020 Tourist Info App** | Tourist app for Tokyo and the 2020 Summer Olympic Games. [(View repository)](https://github.com/lbchanjr/Tokyo-2020-Android/blob/master/README.md) | Android | Java / Room persistence library
